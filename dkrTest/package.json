@@ -1,0 +1,19 @@
+{
+  "name": "dkrtest",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "docker": "^1.0.0",
+    "docker-spawn": "^0.1.1",
+    "dockerode": "file:dockerode",
+    "express": "^4.16.3",
+    "node-docker-api": "^1.1.22"
+  },
+  "devDependencies": {},
+  "description": ""
+}
